@@ -46,6 +46,7 @@ Welcome to the **Unsloth x AMD Radeon Finetuning Workshop**! In this hands-on se
 > Full reference: [Install Ryzen Software for Linux with ROCm](https://rocm.docs.amd.com/projects/radeon-ryzen/en/latest/docs/install/installryz/native_linux/install-ryzen.html)
 
 ROCm is already installed on the **host machine**. Verify it's working:
+In your terminal, run this -
 
 ```bash
 rocminfo
